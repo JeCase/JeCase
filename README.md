@@ -1,6 +1,15 @@
 ### Hi, I'm Jerry👋
 
-![Jerry Cahyo Setiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeCase&show_icons=true&theme=nightowl)
+<table>
+  <tr>
+    <td align="center" >
+      <img width="85%" src = "https://github-readme-stats.vercel.app/api?username=JeCase&show_icons=true&theme=nightowl"/>
+    </td>
+    <td align="center">
+      <img  width="100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JeCase&layout=compact&theme=vision-friendly-dark"/>
+    </td>
+  </tr>
+<table>
 
 💻 I’m currently learning about data science and web development
 
