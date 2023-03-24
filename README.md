@@ -11,7 +11,7 @@
   </tr>
 <table>
 
-💻 I’m currently learning about data science and web development
+💻 I’m currently learning about data science, data analyst, and data engineer.
 
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
