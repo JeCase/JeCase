@@ -11,7 +11,7 @@
   </tr>
 <table>
 
-💻 I’m currently learning about data science, data analyst, and data engineer.
+💻 I’m currently learning about data science, data analyst, and data engineer. <br>
 🌍 I'm ready to travelling around the world.
 
 <h3 align="left">Connect with me:</h3>
