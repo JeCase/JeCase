@@ -2,12 +2,12 @@
 
 <table>
   <tr>
-    <td align="center" >
+<!--     <td align="center" >
       <img width="85%" src = "https://github-readme-stats.vercel.app/api?username=JeCase&show_icons=true&theme=nightowl"/>
-    </td>
-    <td align="center">
-      <img  width="100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JeCase&layout=compact&theme=vision-friendly-dark"/>
-    </td>
+    </td> -->
+<!--     <td align="center"> -->
+      <img  width="30%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JeCase&layout=compact&theme=vision-friendly-dark"/>
+<!--     </td> -->
   </tr>
 <table>
 
